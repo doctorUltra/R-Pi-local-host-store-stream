@@ -1,0 +1,2 @@
+Copy the flask media folder to appropriate location
+then in run.py file edit the destination of music folder. Also put the songs in /static/music folder.
